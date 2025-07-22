@@ -5,16 +5,21 @@ const studentScoresRoom3 = [67, 80, 100, 15, 12, 40, 67, 80, 100, 67];
 
 function checkGradeOver70(score) {
   // Start coding here
-  return score > 70;
+  // return score > 70;
+  if(score > 70){
+    return true ;
+  }
+  else{
+    return false;
+  }
 }
 
 function atLeastFive(array, operation) {
   // Start coding here
-  console.log(array)
   let count = 0;
   for(let i = 0; i < array.length;i++){
     if(operation(array[i])){
-      count ++;
+      count = count + 1;;
     }
 
   }
@@ -34,9 +39,9 @@ console.log(scoreRoom3Result); //false
 ====================================
 
 1. ใน Exercise นี้ ฟังก์ชันใดเป็น Callback Function?
-
+checkGradeOver70
 2. ใน Exercise นี้ ฟังก์ชันใดเป็น Higher Order Function?
-
+atLeastFive
 ====================================
 */
 //
