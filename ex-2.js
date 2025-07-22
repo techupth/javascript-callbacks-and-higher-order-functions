@@ -32,9 +32,9 @@ console.log(scoreRoom3Result); //false
 /*
 ====================================
 
-1. ใน Exercise นี้ ฟังก์ชันใดเป็น Callback Function?
+1. ใน Exercise นี้ ฟังก์ชันใดเป็น Callback Function? // checkGradeOver70
 
-2. ใน Exercise นี้ ฟังก์ชันใดเป็น Higher Order Function?
+2. ใน Exercise นี้ ฟังก์ชันใดเป็น Higher Order Function? // atLeastFive
 
 ====================================
 */
