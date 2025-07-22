@@ -24,9 +24,9 @@ console.log(newEmployeeSalaries); // [25005, 45000, 37000, 19500, 349000]
 /*
 ====================================
 
-1. ใน Exercise นี้ ฟังก์ชันใดเป็น Callback Function? // forEach
+1. ใน Exercise นี้ ฟังก์ชันใดเป็น Callback Function? // addSalary5000
 
-2. ใน Exercise นี้ ฟังก์ชันใดเป็น Higher Order Function? // addSalary5000
+2. ใน Exercise นี้ ฟังก์ชันใดเป็น Higher Order Function? // forEach
 
 ====================================
 */
